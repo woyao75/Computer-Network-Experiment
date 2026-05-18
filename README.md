@@ -36,7 +36,9 @@
 ## 文件说明
 | 路径 | 说明 |
 |---|---|
-|  |  |
+| [src/四个子网划分实验.pkt](src/四个子网划分实验.pkt) |  Cisco Packet Tracer 实验源文件 |
+| [img/overview.png](img/overview.png) | 拓扑总览截图 |
+| [img/pc1-ping.png](img/pc1-ping.png) | pc1跨网段ping测试 |
 
 ## 实验拓扑
 
@@ -46,6 +48,9 @@
 - 4台`2950`交换机
 - 8台PC
 - 直通线`Copper Straight-Through`若干
+
+拓扑总览：
+![实验拓扑](img/overview.png)
 
 ## 如何开始实验
 
@@ -57,7 +62,7 @@
 
 示例：PC1 跨网段 ping 其他主机成功。
 
-![PC1 ping 测试]
+![PC1 ping 测试](img/pc1-ping.png)
 
 ## 许可证
 
